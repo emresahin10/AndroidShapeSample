@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KodluyoruzAndroidShape</string>
+    <string name="cloudy">Bulutlu</string>
+    <string name="cloduyDerece">24°</string>
+
+    <string name="sunny">Güneşli</string>
+    <string name="sunnyDerece">36°</string>
+
+    <string name="snowy">Karlı</string>
+    <string name="snowyDerece">-  4°</string>
+
+    <string name="rainy">Yağmurlu</string>
+    <string name="rainyDerece">12°</string>
+</resources>
